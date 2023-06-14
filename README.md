@@ -2,25 +2,44 @@
 رهایش تی وی یه پلی لیست با فرمت m3u برای تماشای اینترنتی شبکه های تلویزیونی هستش که مردم ایران اون ها رو از طریق گیرنده های دیجیتال (DVB-T) و یا از طریق ماهواره (DVB-S) اون ها رو تماشا میکنن
 
 ### شبکه ها به چه زبونی هستن؟
-شبکه ها به زبون های فارسی هستش اما قصد اضافه کردن شبکه های ترکی و کردی محبوب رو هم داریم
+شبکه ها به زبون های فارسی هستش اما قصد اضافه کردن شبکه های ترکی و کردی محبوب رو هم داریم و میتونید از قسمت issue اون ها رو درخواست کنید
 
 ### چند تا شبکه موجوده؟
-در حال حاضر placeholder
+در حال حاضر 86 شبکه
 
 ### لینک پلی لیست کجاست؟
-placeholder
+https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/Rahayesh.m3u
 
 ###  با چه اپی میتونم از این پلی لیست استفاده کنم؟
-اندروید:
-Placeholder
+شما میتونید با هر مدیا پلیری که قابلیت پخش پلی لیست m3u داره از پلی لیست ما استفاده کنید اما نرم افزار های پیشنهادی ما این ها هستن 👇👇👇 
 
-آی او اس:
-Placeholder
 
-دسکتاپ:
-placeholder
-تلویزیون های هوشمند:
-placeholder
+
+
+Android:
+[FastoTVLite](https://play.google.com/store/apps/details?id=com.fastotv.lite),
+[ProgTV](https://play.google.com/store/apps/details?id=com.progdvb.progtva)
+
+iOS:
+[FastoTVLite](https://apps.apple.com/us/app/fastotvlite/id1496936356)
+
+Windows/Linux/MacOS:
+[IPTVnator](https://github.com/4gray/iptvnator),
+[PotPlayer](https://potplayer.daum.net)
+
+Android Smart TVs and Android Boxes:
+[M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv),
+[ProgTV](https://play.google.com/store/apps/details?id=com.progdvb.progtva)
+
+Non-Android Smart TV:
+[SS-IPTV](https://ss-iptv.com)
+
+AppleTV:
+[iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801)
+
+Xbox Series S/X and Xbox one
+[Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm)
+
 
 ##### یکی از شبکه ها باز نمیشه
 در صورتی که توی اسم شبکه نوشته باشه Filtered یعنی شما نیاز دارید که برای تماشای اون شبکه فیلترشکنتون روشن کنین اگه فیلترشکنتون رو روشن کردید و باز هم شبکه باز نشد یه issue باز کنین و این رو به ما اطلاع بدین
