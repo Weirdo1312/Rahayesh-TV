@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/manoto.jpg" group-title="Satellite", Manoto
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Satellite", Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/4u.png" group-title="Satellite", 4U TV
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian
