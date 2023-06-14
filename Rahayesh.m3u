@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Manoto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/manoto.jpg" group-title="Satellite", Manoto
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", 4U TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/4u.png" group-title="Satellite", 4U TV
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", BBC Persian
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", BBC Persian (No Restrictions)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian (No Restrictions)
 https://glwizhhls25.glwiz.com/BBCPersian/BBCPersian_Low.m3u8?user=sglseorsij2nh22t1mbtfsrpwyqy&session=9961cfccf0da9cd76385f1253c3162fdb20dacb8a3c1aa06f86c40fda2bd486921c8c28e8a0d2ac908c9d722424a306c0525b5a05602d275caaedfcf5ed23ce5&hlsid=HTTP_ID_633339
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", VOA Persian
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/voapersian.png" group-title="Satellite", VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Channel One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/channelone.png" group-title="Satellite", Channel One
 https://ch1hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Iran International sv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International sv1
 https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Iran International sv2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International sv2
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Your Time
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/yourtime.png" group-title="Satellite", Your Time
 https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", PMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/pmc.jpg" group-title="Satellite", PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", PMC Royale
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/pmcroyale.png" group-title="Satellite", PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", MTC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/mtc.jpg" group-title="Satellite", MTC
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Radio Javan TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/radiojavan.png" group-title="Satellite", Radio Javan TV
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Avang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/avang.jpg" group-title="Satellite", Avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", High Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/highvisionjpg" group-title="Satellite", High Vision
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Navahang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/navahang.jpg" group-title="Satellite", Navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", MBC Persia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/mbcpersia.png" group-title="Satellite", MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Tapesh
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
@@ -131,9 +131,9 @@ https://live2.parnian.tv/hls/live/play.m3u8
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="IRIB", IRIB 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/irib1.png" group-title="IRIB", IRIB 1
 https://live.aionet.ir/hls/tv1/tv1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="IRIB", IRIB 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/irib2.png" group-title="IRIB", IRIB 2
 https://live.aionet.ir/hls/tv2/tv2_540/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="IRIB", IRIB 3
 https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
