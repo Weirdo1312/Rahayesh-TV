@@ -5,8 +5,6 @@ https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian (No Restrictions)
-https://glwizhhls25.glwiz.com/BBCPersian/BBCPersian_Low.m3u8?user=sglseorsij2nh22t1mbtfsrpwyqy&session=9961cfccf0da9cd76385f1253c3162fdb20dacb8a3c1aa06f86c40fda2bd486921c8c28e8a0d2ac908c9d722424a306c0525b5a05602d275caaedfcf5ed23ce5&hlsid=HTTP_ID_633339
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/voapersian.png" group-title="Satellite", VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/channelone.png" group-title="Satellite", Channel One
@@ -63,10 +61,6 @@ https://pfilmhls.wns.live/hls/stream.m3u8
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", My Movie TV
 https://mymoviehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Ekran Movies
-https://glwizhhls29.glwiz.com/EkranMovies/EkranMovies_Low.m3u8?user=sglseorsij2nh22t1mbtfsrpwyqy&session=afa729b22022ab30540e577cd85fb979b219a129e7cf64e13049e571123dabb63a7db778d52ecd506e3e69b56b1a5bba6b76442a230b2c9661804ff5228eba7b&hlsid=HTTP_ID_1270970
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Ekran Kids
-https://glwizhhls29.glwiz.com/EkranKids/EkranKids_Low.m3u8?user=sglseorsij2nh22t1mbtfsrpwyqy&session=b0ce4a9a6db644de24775ad3a600e17ef38bff795bab50a1da318f9b1ad659eea0ade015b35b1c416ee1027a1c48890f27d3e7cae8820d9d48aeed5e72d55b9a&hlsid=HTTP_ID_1271002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Family
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Comedy
