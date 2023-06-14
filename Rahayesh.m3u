@@ -9,12 +9,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/channelone.png" group-title="Satellite", Channel One
 https://ch1hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International sv1
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International sv2
-https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International sv3
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International
+https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/yourtime.png" group-title="Satellite", Your Time
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/pmc.jpg" group-title="Satellite", PMC
