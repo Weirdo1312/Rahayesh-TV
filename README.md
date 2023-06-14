@@ -17,11 +17,11 @@
 
 
 Android:
-[FastoTVLite](https://play.google.com/store/apps/details?id=com.fastotv.lite),
 [ProgTV](https://play.google.com/store/apps/details?id=com.progdvb.progtva)
 
 iOS:
-[FastoTVLite](https://apps.apple.com/us/app/fastotvlite/id1496936356)
+???
+You know a good app for iOS for watching iptv? tell us about it [here](https://github.com/Weirdo1312/Rahayesh-TV/issues/new) 
 
 Windows/Linux/MacOS:
 [IPTVnator](https://github.com/4gray/iptvnator),
