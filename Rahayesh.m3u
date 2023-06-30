@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/manoto.jpg" group-title="Satellite", Manoto
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Satellite", Kanal Jadid
-https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/4u.png" group-title="Satellite", 4U TV
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/voapersian.png" group-title="Satellite", VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/channelone.png" group-title="Satellite", Channel One
 https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/iraninternational.jpg" group-title="Satellite", Iran International
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/bbcpersian.png" group-title="Satellite", BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/yourtime.png" group-title="Satellite", Your Time
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/pmc.jpg" group-title="Satellite", PMC
@@ -57,6 +55,8 @@ https://pfilmhls.wns.live/hls/stream.m3u8
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", My Movie TV
 https://mymoviehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Satellite", Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Family
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Comedy
