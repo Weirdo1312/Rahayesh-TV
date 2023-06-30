@@ -31,10 +31,6 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/mbcpersia.png" group-title="Satellite", MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Tapesh
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Tapesh Iran
-https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Negah TV
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Royal Time
