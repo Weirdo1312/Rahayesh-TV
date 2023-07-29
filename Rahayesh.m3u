@@ -19,6 +19,8 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/mtc.jpg" group-title="Satellite", MTC
 https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Satellite", Iran TV Network
+https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/radiojavan.png" group-title="Satellite", Radio Javan TV
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Weirdo1312/Rahayesh-TV/main/logos/avang.jpg" group-title="Satellite", Avang
@@ -33,6 +35,14 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Royal Time
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Tapesh
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", International Tourism TV
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Max Channel
+https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Vox 1
 https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Oxir
@@ -165,4 +175,34 @@ https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_200k.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b750000.m3u8
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b550000.m3u8
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b200000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", Euronews English
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p20.m3u8
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_360p.m3u8
+https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_240p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", Real Madrid English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
