@@ -37,8 +37,6 @@ https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11e
 https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Oxir
 https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Khatereh
-https://khaterehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", ICC
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Ava Series
@@ -53,8 +51,6 @@ https://38b3095.online-server.cloud/hls/live.m3u8
 https://pfilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", AMG TV
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", My Movie TV
-https://mymoviehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Satellite", Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Family
@@ -66,7 +62,7 @@ http://51.210.199.18/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Iranian
 http://51.210.199.22/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Korea
-"http://51.210.199.14/hls/stream.m3u8
+http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Cinema
 http://168.119.248.171/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana 4Kurd
@@ -87,8 +83,6 @@ http://51.210.227.163/hls/stream.m3u8
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Sonnati
 http://51.210.199.1/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Persiana Poker
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Bravo Farsi
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Toonix
@@ -109,7 +103,7 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Today TV
 https://todayhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", DXB Farsi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", DXB One
 http://51.210.227.138/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Satellite", Javanan TV
 https://nl.livekadeh.com/hls2/javanantv_high.m3u8
