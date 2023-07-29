@@ -159,3 +159,7 @@ https://live.aionet.ir/hls/dorfa/dorfa_720/index.m3u8
 https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="E-IPTV", Aio Arpa
 https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
