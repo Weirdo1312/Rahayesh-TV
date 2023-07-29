@@ -163,3 +163,6 @@ https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Non-Persian", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_200k.m3u8
+
