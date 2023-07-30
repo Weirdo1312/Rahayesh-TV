@@ -206,3 +206,9 @@ https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c49
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", VOA English TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0360.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0240.m3u8
