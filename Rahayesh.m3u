@@ -204,11 +204,13 @@ https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c49
 https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_240p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Non-Persian", Real Madrid English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", Real Madrid English [M]
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", Real Madrid English [L]
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Non-Persian", VOA English TV
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", VOA English TV (H)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", VOA English TV (M)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non-Persian", VOA English TV (L)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0360.m3u8
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0240.m3u8
