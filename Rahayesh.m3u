@@ -153,7 +153,6 @@ https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Nasim
 https://live.aionet.ir/hls/nasim/nasim_540/index.m3u8
 
-
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 1
 https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 2
@@ -185,18 +184,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1  group-title="Non-Persian", DW News (LD)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Non-Persian", Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b750000.m3u8
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b550000.m3u8
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b200000.m3u8
 #EXTINF:-1 group-title="Non-Persian", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 #EXTINF:-1 group-title="Non-Persian", NASA Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_500.m3u8
 #EXTINF:-1 group-title="Non-Persian", Euronews English
 https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
 https://euronews-en-p30-cdn.hexaglobe.net/37893495790ac6da4942774dda508e6e/64c499ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p20.m3u8
