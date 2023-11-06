@@ -169,17 +169,21 @@ https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan_720/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Arpa
 https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
 
-#EXTINF:-1  group-title="Non-Persian", NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1  group-title="Non-Persian", NHK World (HD)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
+#EXTINF:-1  group-title="Non-Persian", NHK World (LD)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_200k.m3u8
-#EXTINF:-1  group-title="Non-Persian", CGTN English
+#EXTINF:-1  group-title="Non-Persian", CGTN English (SD)
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News
+#EXTINF:-1  group-title="Non-Persian", DW News (FHD)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1  group-title="Non-Persian", DW News (HD)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1  group-title="Non-Persian", DW News (SD-High)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1  group-title="Non-Persian", DW News (SD-Low)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1  group-title="Non-Persian", DW News (LD)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Non-Persian", Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1813438083_b750000.m3u8
