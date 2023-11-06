@@ -168,39 +168,29 @@ https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan_720/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Arpa
 https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
 
-#EXTINF:-1  group-title="Non-Persian", NHK World (HD)
+#EXTINF:-1  group-title="Non-Persian", NHK World [HD]
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
-#EXTINF:-1  group-title="Non-Persian", NHK World (LD)
+#EXTINF:-1  group-title="Non-Persian", NHK World [LD]
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
-#EXTINF:-1  group-title="Non-Persian", CGTN English (SD)
+#EXTINF:-1  group-title="Non-Persian", CGTN English [SD]
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News (FHD)
+#EXTINF:-1  group-title="Non-Persian", DW News [FHD]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News (HD)
+#EXTINF:-1  group-title="Non-Persian", DW News [HD]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News (SD-High)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News (SD-Low)
+#EXTINF:-1  group-title="Non-Persian", DW News [SD]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News (LD)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA TV (HD)
+#EXTINF:-1 group-title="Non-Persian", NASA TV [HD]
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA Media (HD)
+#EXTINF:-1 group-title="Non-Persian", NASA Media [HD]
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA UHD (UHD)
+#EXTINF:-1 group-title="Non-Persian", NASA UHD [UHD]
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 group-title="Non-Persian", Euronews English (FHD)
+#EXTINF:-1 group-title="Non-Persian", Euronews English [FHD] [Auto]
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madrid English
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madrid English [M]
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madrid English [L]
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English TV (H)
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English TV (M)
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English TV (L)
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
+#EXTINF:-1 group-title="Non-Persian", Real Madarid English [FHD]
+https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/1920x1080_5701132/index.m3u8
+#EXTINF:-1 group-title="Non-Persian", Real Madarid English [HD]
+https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/1280x720_3000140/index.m3u8
+#EXTINF:-1 group-title="Non-Persian", Real Madarid English [SD]
+https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/720x404_1513283/index.m3u8
