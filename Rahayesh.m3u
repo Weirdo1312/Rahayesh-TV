@@ -234,3 +234,31 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Non-Persian", The Young Turks TV [FHD] [Auto]
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [FHD]
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [HD]
+https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [SD]
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS News TV [HD]
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/82bdba75-3293-4073-8df1-ebcff81668b3:GRQ/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3073312.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS News TV [SD]
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/82bdba75-3293-4073-8df1-ebcff81668b3:GRQ/variant/7568f3293657e966eb3033a21cfe3f70/bandwidth/1753312.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [FHD]
+https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/16ffcded7e9ab6f238cb680d15533dc9/bandwidth/5859480.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [HD]
+https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/60e616ad294666ea256e69ec66be3c42/bandwidth/4143876.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [SD]
+https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/c58274dab1cdb29adde83176dc3d1426/bandwidth/2199524.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [FHD]
+https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/f8776b964b37880bde2f4cec8b7ea35b/bandwidth/5860800.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [HD]
+https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/898b3bc290319faaffcff041bf2d7757/bandwidth/4144800.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [SD]
+https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/71e6dd9bc33c3a34c8639c6a732abe80/bandwidth/2200000.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [FHD]
+https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/22957d93a695c2591ba11402a5838730/bandwidth/5860800.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [HD]
+https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/64c3148c140b0a3473f5aab09cba4919/bandwidth/4144800.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [SD]
+https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/1ad4e8cf190df1b71751e51d061916e0/bandwidth/2200000.m3u8
