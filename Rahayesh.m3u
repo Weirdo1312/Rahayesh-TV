@@ -194,3 +194,43 @@ https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/am
 https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/1280x720_3000140/index.m3u8
 #EXTINF:-1 group-title="Non-Persian", Real Madarid English [SD]
 https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/720x404_1513283/index.m3u8
+#EXTINF:-1 group-title="Non-Persian", Russia Today [FHD]
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="Non-Persian", Russia Today [HD]
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 group-title="Non-Persian", Russia Today [SD]
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Non-Persian", Rick And Morty [FHD]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Rick And Morty [HD]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
+#EXTINF:-1 group-title="Non-Persian", Rick And Morty [SD]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [FHD]
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [HD]
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_6.m3u8
+#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [SD]
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [FHD]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [HD]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_6.m3u8
+#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [SD]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Sky News [FHD]
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/08_hd30.m3u8
+#EXTINF:-1 group-title="Non-Persian", Sky News [HD]
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/07_hd30.m3u8
+#EXTINF:-1 group-title="Non-Persian", Sky News [SD]
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/05_hd30.m3u8
+#EXTINF:-1 group-title="Non-Persian", VOA English [FHD]
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 group-title="Non-Persian", VOA English [HD]
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
+#EXTINF:-1 group-title="Non-Persian", VOA English [SD]
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
+#EXTINF:-1 group-title="Non-Persian", Vice TV [FHD] [Auto]
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", The Young Turks TV [FHD] [Auto]
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
