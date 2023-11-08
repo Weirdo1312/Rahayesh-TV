@@ -35,16 +35,12 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 group-title="Satellite", Royal Time
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
-#EXTINF:-1 group-title="Satellite", Tapesh
+#EXTINF:-1 group-title="Satellite", Tapesh [F]
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="Satellite", Tapesh Iran
+#EXTINF:-1 group-title="Satellite", Tapesh Iran [F]
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
 #EXTINF:-1 group-title="Satellite", International Tourism TV
 https://itthls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Max Channel
-https://maxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Vox 1
-https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Oxir
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", ICC
@@ -59,48 +55,54 @@ https://hls.maahtv.live/hls/stream.m3u8
 https://38b3095.online-server.cloud/hls/live.m3u8
 #EXTINF:-1 group-title="Satellite", Persian Film TV
 https://pfilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", AMG TV
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1  group-title="Satellite", Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Cinema
-http://168.119.248.171/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana 4Kurd
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana 4Turk
-https://divanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana One
 http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Two [F]
+https://persianagroup.cloud/api/live-stream/persiana-two
 #EXTINF:-1 group-title="Satellite", Persiana HD
 http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Cinema
+http://168.119.248.171/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana Sport
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana Music
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana Rap
 http://51.210.227.163/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Science
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Latino [F]
+https://persianagroup.cloud/api/live-stream/persiana-latino
+#EXTINF:-1 group-title="Satellite", Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana Sonnati
 http://51.210.199.1/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana 4Kurd
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Persiana Turkiye [F]
+https://persianagroup.cloud/api/live-stream/persiana-turkiye
+#EXTINF:-1 group-title="Satellite", Persiana 4Turk
+https://divanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Bravo Farsi
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Toonix
+#EXTINF:-1 group-title="Satellite", FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", FX 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", HodHod Farsi
 https://hls.hodhod.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Farsi TV
-https://live.farsitv.us/live/stream.m3u8
 #EXTINF:-1 group-title="Satellite", 247 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Tin TV
@@ -109,14 +111,10 @@ https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", FX TV
-https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Today TV
 https://todayhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", DXB One
 http://51.210.227.138/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Javanan TV
-https://nl.livekadeh.com/hls2/javanantv_high.m3u8
 #EXTINF:-1 group-title="Satellite", Payam Javan
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Satellite", Parnian
@@ -124,12 +122,15 @@ https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 group-title="Satellite", Sat 7 Pars
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8
 
+
 #EXTINF:-1 group-title="IRIB", IRIB 1
 https://live.aionet.ir/hls/tv1/tv1_720/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 2
 https://live.aionet.ir/hls/tv2/tv2_540/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB 3
+#EXTINF:-1 group-title="IRIB", IRIB 3 HD
 https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
+#EXTINF:-1 group-title="IRIB", IRIB 3
+https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 4
 https://live.aionet.ir/hls/tv4/tv4_540/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 5
@@ -148,129 +149,133 @@ https://live.aionet.ir/hls/namayesh/namayesh_540/index.m3u8
 https://live.aionet.ir/hls/ifilm/ifilm_540/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Tamasha
 https://live.aionet.ir/hls/tamasha/tamasha_540/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB Varzesh
+#EXTINF:-1 group-title="IRIB", IRIB Varzesh HD
 https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
+#EXTINF:-1 group-title="IRIB", IRIB Varzesh
+https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Nasim
 https://live.aionet.ir/hls/nasim/nasim_540/index.m3u8
 
+
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 1
+https://live.aionet.ir/hls/aiosport/aiosport_480/index.m3u8
+#EXTINF:-1 group-title="E-IPTV", Aio Sport 1 HD
 https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 2
-https://af.ayas.ir/hls2/aiosport2.m3u8
+https://live.aionet.ir/hls/aiosport2/aiosport2_480/index.m3u8
+#EXTINF:-1 group-title="E-IPTV", Aio Sport 2 HD
+https://live.aionet.ir/hls/aiosport2/aiosport2_1080/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Jahan Bin
 https://live.aionet.ir/hls/jahanb/jahanb_1080/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Eshareh
-https://live.aionet.ir/hls/eshareh/eshareh_720/index.m3u8
+#EXTINF:-1 group-title="E-IPTV", Aio Iran Economy
+https://live.aionet.ir/hls/iraneconomy/iraneconomy_720/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Dorfa
 https://live.aionet.ir/hls/dorfa/dorfa_720/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Mes Rafsanjan
 https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan_720/index.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Arpa
 https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
+#EXTINF:-1 group-title="E-IPTV", Aio Eshareh
+https://live.aionet.ir/hls/eshareh/eshareh_720/index.m3u8
 
-#EXTINF:-1  group-title="Non-Persian", NHK World [HD]
+
+#EXTINF:-1  group-title="Non-Persian", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
-#EXTINF:-1  group-title="Non-Persian", NHK World [LD]
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
-#EXTINF:-1  group-title="Non-Persian", CGTN English [SD]
+#EXTINF:-1  group-title="Non-Persian", CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News [FHD]
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News [HD]
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Non-Persian", DW News [SD]
+#EXTINF:-1  group-title="Non-Persian", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1  group-title="Non-Persian", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA TV [HD]
+#EXTINF:-1  group-title="Non-Persian", DW News HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Non-Persian", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA Media [HD]
+#EXTINF:-1 group-title="Non-Persian", NASA Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Non-Persian", NASA UHD [UHD]
+#EXTINF:-1 group-title="Non-Persian", NASA UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 group-title="Non-Persian", Euronews English [FHD] [Auto]
+#EXTINF:-1 group-title="Non-Persian", Euronews English
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madarid English [FHD]
-https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/1920x1080_5701132/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madarid English [HD]
-https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/1280x720_3000140/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", Real Madarid English [SD]
-https://amg01201-cinedigmenterta-realmadrid-cineverse-j6ye1.amagi.tv/playlist/amg01201-cinedigmenterta-realmadrid-cineverse/cb573f1b65736d8f84c83978d1f14582af7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d131b6dca19d76201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150ff070bd037472b81ed1b58d068e0345210bf0b23076388b844a57454c09d0a8d2c7ddaa5d5663e7b0e5bfdff6cdf8366355a696c65e94693c77e5aa35907b6dc119cf63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b42d434557b3d127c8b896ad1b3355c484d084bff580c60643b454d9ffb0338830a654ef9f1c8ba278f7b4170f0e01255ec55e22ab4319862b943c08b2bf7f8eb8f13137acc4c3c10201562aac1f51d13c474114c6d4f8c1eb9bc785d52db62c827640891efc207be2774fc920e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c64fb4c03c8b709328e18e34245f464be2c80595d6890f60330fa0894cd11514a194dad286406bb8157130df69d75f0a7bdf743d2c974ad7ae7c3dd9685aff70579c753a9a4bf0b42d8fd6fdec143eb3d1df02b22fd8bc04d6f915ba2f5b7d07a0f9385055461e81bf3115517c9cb7130a32de7001fdf26f65a4f322/117/720x404_1513283/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", Russia Today [FHD]
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="Non-Persian", Russia Today [HD]
-https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 group-title="Non-Persian", Russia Today [SD]
+#EXTINF:-1 group-title="Non-Persian", Real Madarid English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Non-Persian", Real Madarid Spanish
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Non-Persian", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="Non-Persian", Rick And Morty [FHD]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-#EXTINF:-1 group-title="Non-Persian", Rick And Morty [HD]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
-#EXTINF:-1 group-title="Non-Persian", Rick And Morty [SD]
+#EXTINF:-1 group-title="Non-Persian", Russia Today HD
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Rick And Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
-#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [FHD]
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
-#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [HD]
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_6.m3u8
-#EXTINF:-1 group-title="Non-Persian", Eric Andre Show [SD]
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Rick And Morty HD
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Holiday Marathon
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Holiday Marathon HD
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_5.m3u8
-#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [FHD]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
-#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [HD]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_6.m3u8
-#EXTINF:-1 group-title="Non-Persian", Aqua Teen Hunger Force [SD]
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Eric Andre Show HD
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_5.m3u8
-#EXTINF:-1 group-title="Non-Persian", Sky News [FHD]
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/08_hd30.m3u8
-#EXTINF:-1 group-title="Non-Persian", Sky News [HD]
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/07_hd30.m3u8
-#EXTINF:-1 group-title="Non-Persian", Sky News [SD]
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Aqua Teen Hunger Force HD
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Off the Air/Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Off the Air/Smalls HD
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Primal HD
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Infomercials HD
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Black Jesus HD
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Samurai Jack HD
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_5.m3u8
+#EXTINF:-1 group-title="Non-Persian", Adult Swim Channel 5 HD
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+#EXTINF:-1 group-title="Non-Persian", Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/05_hd30.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English [FHD]
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English [HD]
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
-#EXTINF:-1 group-title="Non-Persian", VOA English [SD]
+#EXTINF:-1 group-title="Non-Persian", Sky News HD
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/08_hd30.m3u8
+#EXTINF:-1 group-title="Non-Persian", VOA English
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
-#EXTINF:-1 group-title="Non-Persian", Vice TV [FHD] [Auto]
+#EXTINF:-1 group-title="Non-Persian", VOA English HD
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 group-title="Non-Persian", Vice TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Non-Persian", The Young Turks TV [FHD] [Auto]
+#EXTINF:-1 group-title="Non-Persian", The Young Turks TV
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [FHD]
-https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [HD]
-https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV [SD]
+#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS News TV [HD]
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/82bdba75-3293-4073-8df1-ebcff81668b3:GRQ/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3073312.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS News TV [SD]
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/82bdba75-3293-4073-8df1-ebcff81668b3:GRQ/variant/7568f3293657e966eb3033a21cfe3f70/bandwidth/1753312.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [FHD]
-https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/16ffcded7e9ab6f238cb680d15533dc9/bandwidth/5859480.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [HD]
-https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/60e616ad294666ea256e69ec66be3c42/bandwidth/4143876.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV [SD]
-https://dai.google.com/linear/hls/pa/event/RjvF1cd0Qx-65Dz14THpPA/stream/991adab4-dec1-4c5f-99ab-08395cc8da5d:GRQ/variant/c58274dab1cdb29adde83176dc3d1426/bandwidth/2199524.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [FHD]
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/f8776b964b37880bde2f4cec8b7ea35b/bandwidth/5860800.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [HD]
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/898b3bc290319faaffcff041bf2d7757/bandwidth/4144800.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV [SD]
-https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/fe41609d-4595-46b2-a514-16ab1cf25bc3:GRQ/variant/71e6dd9bc33c3a34c8639c6a732abe80/bandwidth/2200000.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [FHD]
-https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/22957d93a695c2591ba11402a5838730/bandwidth/5860800.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [HD]
-https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/64c3148c140b0a3473f5aab09cba4919/bandwidth/4144800.m3u8
-#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV [SD]
-https://dai.google.com/linear/hls/pa/event/Y2DMgfclT3S2nNxANeIawA/stream/60a6a399-1b2d-4e92-a972-4a40cbf03e75:GRQ/variant/1ad4e8cf190df1b71751e51d061916e0/bandwidth/2200000.m3u8
-#EXTINF:-1 group-title="Non-Persian", North Korea Central TV [SD]
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-title="Non-Persian", iTV 1 [FHD]
+#EXTINF:-1 group-title="Non-Persian", Al Jazeera TV HD
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS News TV
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Car Chase TV
+https://dai.google.com/linear/hls/event/RjvF1cd0Qx-65Dz14THpPA/master.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Mixible TV
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV
+https://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/maseter.m3u8
+#EXTINF:-1 group-title="Non-Persian", iTV 1
 http://92.114.85.81:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", iTV 3 [FHD]
+#EXTINF:-1 group-title="Non-Persian", iTV 3
 http://92.114.85.77:8000/play/a04z
-#EXTINF:-1 group-title="Non-Persian", iTV 4 [FHD]
+#EXTINF:-1 group-title="Non-Persian", iTV 4
 http://92.114.85.77:8000/play/a05z
-#EXTINF:-1 group-title="Non-Persian", Channel 4 [FHD]
+#EXTINF:-1 group-title="Non-Persian", Channel 4
 http://92.114.85.77:8000/play/a0b9
-#EXTINF:-1 group-title="Non-Persian", BBC News English [FHD]
+#EXTINF:-1 group-title="Non-Persian", BBC News English
 http://92.114.85.81:8000/play/a00a/index.m3u8
