@@ -59,7 +59,7 @@ https://pfilmhls.wns.live/hls/stream.m3u8
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana One
 http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Two [F]
+#EXTINF:-1 group-title="Satellite", Persiana Two
 https://persianagroup.cloud/api/live-stream/persiana-two
 #EXTINF:-1 group-title="Satellite", Persiana HD
 http://51.210.227.147/hls/stream.m3u8
@@ -81,7 +81,7 @@ http://51.210.199.22/hls/stream.m3u8
 http://51.210.199.27/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana Science
 http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Latino [F]
+#EXTINF:-1 group-title="Satellite", Persiana Latino
 https://persianagroup.cloud/api/live-stream/persiana-latino
 #EXTINF:-1 group-title="Satellite", Persiana Junior
 http://51.210.199.18/hls/stream.m3u8
@@ -91,7 +91,7 @@ http://51.210.199.1/hls/stream.m3u8
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 group-title="Satellite", Persiana 4Kurd
 http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 group-title="Satellite", Persiana Turkiye [F]
+#EXTINF:-1 group-title="Satellite", Persiana Turkiye
 https://persianagroup.cloud/api/live-stream/persiana-turkiye
 #EXTINF:-1 group-title="Satellite", Persiana 4Turk
 https://divanhls.wns.live/hls/stream.m3u8
@@ -121,16 +121,29 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 group-title="Satellite", Sat 7 Pars
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8
-
+#EXTINF:-1 group-title="Satellite", Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Meta TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Satellite", AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Satellite", Novin TV
+https://novin-tv.icdndhcp.com/hls/test.m3u8
+#EXTINF:-1 group-title="Satellite", Caltex Music TV
+https://54.184.149.198/hls/caltextv.m3u8
+#EXTINF:-1 group-title="Satellite", Caltex Music TV (A)
+https://video.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1 group-title="IRIB", IRIB 1
 https://live.aionet.ir/hls/tv1/tv1_720/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 2
 https://live.aionet.ir/hls/tv2/tv2_540/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB 3 HD
-https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 3
 https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
+#EXTINF:-1 group-title="IRIB", IRIB 3 HD
+https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 4
 https://live.aionet.ir/hls/tv4/tv4_540/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 5
@@ -149,10 +162,10 @@ https://live.aionet.ir/hls/namayesh/namayesh_540/index.m3u8
 https://live.aionet.ir/hls/ifilm/ifilm_540/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Tamasha
 https://live.aionet.ir/hls/tamasha/tamasha_540/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB Varzesh HD
-https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Varzesh
 https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
+#EXTINF:-1 group-title="IRIB", IRIB Varzesh HD
+https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Nasim
 https://live.aionet.ir/hls/nasim/nasim_540/index.m3u8
 
@@ -279,3 +292,41 @@ http://92.114.85.77:8000/play/a05z
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 group-title="Non-Persian", BBC News English
 http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Non-Persian", TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="Non-Persian", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="Non-Persian", Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/03.m3u8
+#EXTINF:-1 group-title="Non-Persian", Free Speech TV HD
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
+#EXTINF:-1 group-title="Non-Persian", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Non-Persian", Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Non-Persian", PopStar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 group-title="Non-Persian", PopStar! TV HD
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Non-Persian", Fox LiveNow
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Non-Persian", CNN News
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+#EXTINF:-1 group-title="Non-Persian", InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", One America News Network
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", America's Voice
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 group-title="Non-Persian", News Max TV
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", The First TV
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Non-Persian", Talk TV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 group-title="Non-Persian", World is One News
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
