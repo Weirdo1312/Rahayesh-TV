@@ -131,60 +131,44 @@ https://54.184.149.198/hls/caltextv.m3u8
 https://video.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1 group-title="IRIB", IRIB 1
-https://live.aionet.ir/hls/tv1/tv1_720/index.m3u8
+https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 2
-https://live.aionet.ir/hls/tv2/tv2_540/index.m3u8
+https://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 3
-https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB 3 HD
-https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
+https://live.aionet.ir/hls/tv3/tv3.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 4
-https://live.aionet.ir/hls/tv4/tv4_540/index.m3u8
+https://live.aionet.ir/hls/tv4/tv4.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB 5
-https://live.aionet.ir/hls/tv5/tv5_540/index.m3u8
+https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Khabar
-https://live.aionet.ir/hls/irinn/irinn_540/index.m3u8
+https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Amoozesh
-https://live.aionet.ir/hls/amoozesh/amoozesh_540/index.m3u8
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Mostanad
-https://live.aionet.ir/hls/mostanad/mostanad_540/index.m3u8
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Pooya
-https://live.aionet.ir/hls/pooya/pooya_540/index.m3u8
+https://live.aionet.ir/hls/pooya/pooya.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Namayesh
-https://live.aionet.ir/hls/namayesh/namayesh_540/index.m3u8
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB iFilm Farsi
-https://live.aionet.ir/hls/ifilm/ifilm_540/index.m3u8
+https://live.aionet.ir/hls/ifilm/ifilm.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Tamasha
-https://live.aionet.ir/hls/tamasha/tamasha_540/index.m3u8
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Varzesh
-https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
-#EXTINF:-1 group-title="IRIB", IRIB Varzesh HD
-https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 group-title="IRIB", IRIB Nasim
-https://live.aionet.ir/hls/nasim/nasim_540/index.m3u8
-
+https://live.aionet.ir/hls/nasim/nasim.m3u8
 
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 1
-https://live.aionet.ir/hls/aiosport/aiosport_480/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Sport 1 HD
-https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Sport 2
-https://live.aionet.ir/hls/aiosport2/aiosport2_480/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Sport 2 HD
-https://live.aionet.ir/hls/aiosport2/aiosport2_1080/index.m3u8
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Jahan Bin
-https://live.aionet.ir/hls/jahanb/jahanb_1080/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Iran Economy
-https://live.aionet.ir/hls/iraneconomy/iraneconomy_720/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Dorfa
-https://live.aionet.ir/hls/dorfa/dorfa_720/index.m3u8
+https://live.aionet.ir/hls/jahanb/jahanb.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Mes Rafsanjan
-https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan_720/index.m3u8
-#EXTINF:-1 group-title="E-IPTV", Aio Arpa
-https://live.aionet.ir/hls/arpa/arpa_720/index.m3u8
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
 #EXTINF:-1 group-title="E-IPTV", Aio Eshareh
-https://live.aionet.ir/hls/eshareh/eshareh_720/index.m3u8
-
+https://live.aionet.ir/hls/eshareh/eshareh.m3u8
 
 #EXTINF:-1  group-title="Non-Persian", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
