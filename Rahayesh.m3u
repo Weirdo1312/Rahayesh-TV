@@ -276,16 +276,8 @@ https://dai.google.com/linear/hls/event/RjvF1cd0Qx-65Dz14THpPA/master.m3u8
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 group-title="Non-Persian", CBS Inside Edition TV
 https://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/maseter.m3u8
-#EXTINF:-1 group-title="Non-Persian", iTV 1
-http://92.114.85.81:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Non-Persian", iTV 3
-http://92.114.85.77:8000/play/a04z
-#EXTINF:-1 group-title="Non-Persian", iTV 4
-http://92.114.85.77:8000/play/a05z
-#EXTINF:-1 group-title="Non-Persian", Channel 4
-http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 group-title="Non-Persian", BBC News English
-http://92.114.85.81:8000/play/a00a/index.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Non-Persian", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Non-Persian", Global News
@@ -309,7 +301,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Non-Persian", CNN News
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 group-title="Non-Persian", InfoWars
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 #EXTINF:-1 group-title="Non-Persian", One America News Network
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Non-Persian", America's Voice
